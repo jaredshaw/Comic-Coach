@@ -1,0 +1,15 @@
+{
+  "name": "Comic-Coach",
+  "version": "0.0.0",
+  "description": "A conversation to guide teachers through finding and choosing the correct tools in Pixton.",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.3",
+    "initai-node": "~0.0.6"
+  }
+}
